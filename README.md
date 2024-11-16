@@ -19,6 +19,7 @@ I used MySQL as the dialect to create the databases at the same time the databas
 
 ### Notebook
 All the code, the SQL connection, the query execution, the UML process, the data dictionary and the DAG were located in a Notebook, I used the Google Colaboratory tool in order to make this challenge.
+
 [Stori Challenge Notebook](https://colab.research.google.com/drive/1D9vBr6GyEW6rDs_NZHj4p7UD77Elag4e?usp=sharing)
 
 ## UML
